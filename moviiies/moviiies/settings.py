@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'moviiies_app'
+    'moviiies_app',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
